@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarolLuca
 - 👀 I’m interested in Data Science, Artificial Intelligence and Natural Language Processing
-- 🌱 I’m currently learning about Cloud services
+- 🌱 I’m currently learning about Quantum Computing
 - 💞️ I’m looking to collaborate on projects related to the fields aforementioned
 - 📫 How to reach me - gasancarolluca@gmail.com
 
